@@ -1,6 +1,6 @@
 **Description**
 
-This study aims to examine the incidence and prognostic factors of intentional self-harm events and subsequent mortality from unnatural causes among beneficiaries of a private medical insurance scheme (AfA + AfAc population). 
+This study aims to examine the incidence and prognostic factors of intentional self-harm events and subsequent mortality from unnatural causes among beneficiaries of a private medical insurance scheme. 
 
 
 **Objectives**
